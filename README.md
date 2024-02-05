@@ -1,5 +1,3 @@
-# Predict_Loan_Rank
-
 # Loan Grade Prediction Project
 
 ## Overview
