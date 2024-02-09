@@ -108,4 +108,3 @@ The project aims to predict loan grades for individuals using historical loan da
 - Provides flexibility for using different classifiers and handling imbalanced datasets.
 - Hyperparameters and features can be fine-tuned based on specific requirements.
 
-**Author: [Your Name]**
